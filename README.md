@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <!-- status -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanji-Ishii&layout=compact)](https://github.com/Kanji-Ishii/github-readme-stats" />
 <img src="https://github-readme-stats.vercel.app/api?username=Kanji-Ishii&show_icons=true&theme=radical" />
 
 
