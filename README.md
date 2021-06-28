@@ -15,12 +15,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- status -->
-<a href="https://github.com/Kanji-Ishii/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kanji-Ishii&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Kanji-Ishii/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kanji-Ishii&repo=convoychat" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Kanji-Ishii&show_icons=true&theme=radical" />
+
 
 <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=Kanji-Ishii&theme=gruvbox"/>
