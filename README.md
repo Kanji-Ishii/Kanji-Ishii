@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <!-- status -->
 <p align="left"> 
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanji-Ishii&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanji-Ishii&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img height="150px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanji-Ishii&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Kanji-Ishii&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
 <!-- Trophies -->
