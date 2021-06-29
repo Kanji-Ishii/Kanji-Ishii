@@ -1,4 +1,4 @@
-### Hi I'm Kanji 👋
+
 <!--
 **Kanji-Ishii/Kanji-Ishii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
